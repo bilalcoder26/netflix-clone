@@ -1,0 +1,5 @@
+//key
+9d043197edee178a7eb292cd32b6cf3c
+
+//for postman
+https://api.themoviedb.org/3/movie/550?api_key=9d043197edee178a7eb292cd32b6cf3c
